@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ConverterCmToInch</string> //nome do App
+
+    <string name="screen_title">Measurements Converter</string>
+    <string name="input_value_label">Enter the value</string>
+    <string name="centimeters_label">Centimeter</string>
+    <string name="inch_label">Inches</string>
+    <string name="convert_label">Convert</string>
+
+    <string name="cm_to_inch_output">%s centimeters is equivalent to %s inches</string>
+    <string name="inch_to_cm_output">%s inches is equivalent to %s centimeters</string>
+</resources>

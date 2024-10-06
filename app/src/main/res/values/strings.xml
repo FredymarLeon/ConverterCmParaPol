@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ConverterCmParaPol</string> //nome do App configurado
+
+    <string name="screen_title">Conversor de Medidas</string>
+    <string name="input_value_label">Insira o valor</string>
+    <string name="centimeters_label">Centímetros</string>
+    <string name="inch_label">Polegadas</string>
+    <string name="convert_label">Converter</string>
+
+    <string name="cm_to_inch_output">%s centímetros é equivalente a %s polegadas</string>
+    <string name="inch_to_cm_output">%s polegadas é equivalente a %s centímetros</string>
+</resources>

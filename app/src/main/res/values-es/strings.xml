@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ConvertirCmParaPul</string> //nome do App configurado
+
+    <string name="screen_title">Conversor de Medidas</string>
+    <string name="input_value_label">Introduzca el valor</string>
+    <string name="centimeters_label">Centimetros</string>
+    <string name="inch_label">Pulgadas</string>
+    <string name="convert_label">Convertir</string>
+
+    <string name="cm_to_inch_output">%s centimetros equivalen a %s pulgadas.</string>
+    <string name="inch_to_cm_output">%s pulgadas equivalen a %s centimetros.</string>
+</resources>
